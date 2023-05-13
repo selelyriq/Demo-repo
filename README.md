@@ -10,3 +10,6 @@ This is pretty cool, I created and pulled my first repo
 
 1. theres a lot of steps to this stuff
 
+# new change 
+
+imma do it right this time
